@@ -52,8 +52,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Fact 3" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Xjr-EG-YOu">
-                                <rect key="frame" x="39" y="778" width="350" height="68"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Fact 3" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="ugM-fo-iyA">
+                                <rect key="frame" x="78" y="771" width="273" height="107"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="textColor" systemColor="labelColor"/>
@@ -67,7 +67,7 @@
                     <connections>
                         <outlet property="fact1Title" destination="cAe-LG-vsO" id="BQz-Xy-ZTu"/>
                         <outlet property="fact2Title" destination="1Ku-xF-ohh" id="giq-da-gZG"/>
-                        <outlet property="fact4Title" destination="Xjr-EG-YOu" id="2d9-vk-mnb"/>
+                        <outlet property="fact3Title" destination="ugM-fo-iyA" id="ppo-iA-5gP"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
